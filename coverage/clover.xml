@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1680663953583" clover="3.2.0">
-  <project timestamp="1680663953583" name="All files">
-    <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2" elements="11" coveredelements="11" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
+<coverage generated="1680666253287" clover="3.2.0">
+  <project timestamp="1680666253287" name="All files">
+    <metrics statements="11" coveredstatements="11" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7" elements="22" coveredelements="22" complexity="0" loc="11" ncloc="11" packages="1" files="1" classes="1"/>
     <file name="main.js" path="D:\Programming\Microverse\Microverse full program\Projects\module_2\testing-practice\main.js">
-      <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+      <metrics statements="11" coveredstatements="11" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7"/>
       <line num="2" count="2" type="cond" truecount="4" falsecount="0"/>
       <line num="3" count="1" type="stmt"/>
       <line num="5" count="1" type="stmt"/>
       <line num="10" count="1" type="stmt"/>
-      <line num="13" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="29" count="2" type="stmt"/>
+      <line num="32" count="1" type="stmt"/>
+      <line num="34" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>

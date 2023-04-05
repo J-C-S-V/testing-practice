@@ -192,7 +192,7 @@
     "yocto-queue": "^0.1.0"
   },
   "scripts": {
-    "test": "jest --watchAll --verbose"
+    "test": "jest --watchAll --coverage"
   },
   "repository": {
     "type": "git",

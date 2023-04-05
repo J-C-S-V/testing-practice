@@ -1,5 +1,8 @@
-describe('Math functions', () => {
-  it('Add 2 numbers', () => {
-    expect(add(2, 3)).toBe(5);
-  });
+const stringLength = require('./main.js');
+
+test('String is ok', () => {
+  expect(stringLength('Hello')).toBe(5);
+});
+test('String is out of range', () => {
+  expect(() => stringLength('123456789hello')).toThrow(Error);
 });
